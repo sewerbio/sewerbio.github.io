@@ -6,6 +6,12 @@ body {
     margin: 0;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 #enter{
     top:0;
     left:0;
